@@ -1,41 +1,38 @@
 # 🧠 JavaScript Mini Projects
 
-Welcome! This repository is a growing collection of beginner-friendly JavaScript projects I’m building while learning and experimenting with core concepts.
+A growing collection of beginner-friendly JavaScript projects that I’m building to sharpen my skills and understand how JavaScript works in real-world scenarios.
 
-Each project focuses on a specific JS topic — from variables and conditionals to functions, DOM manipulation, and more.
+Each project focuses on core concepts like variables, conditions, functions, loops, DOM interaction, and user input — perfect for learning by doing.
 
----
+## 📂 Projects Included
 
-## 📁 Projects Included
+| Project Name             | Description                                  | Live Demo |
+|--------------------------|----------------------------------------------|-----------|
+| 🍎 [Fruit Price Calculator](./docs/fruit-price-calculator/index.html) | Simple billing calculator based on fruit and quantity using basic JS logic | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/fruit-price-calculator/) |
+| 🎲 [Number Guessing Game](./docs/number-guess-game/index.html)        | Guess a number between 1–10 with user prompts and feedback | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/number-guess-game/) |
 
-| Project | Description | Live Demo |
-|--------|-------------|-----------|
-| 🍎 [Fruit Price Calculator](./docs/fruit-price-calculator/) | Select a fruit and quantity, then get total cost using simple JS logic. | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/fruit-price-calculator/) |
-| 🔢 Number Guess Game | *(Coming soon)* A game to guess a number with logic and loops. | _Coming soon_ |
+> More projects coming soon...
 
----
+## 🎯 Purpose
 
-## 🛠 Technologies Used
+This repository is part of my learning journey as an MCA student, aimed at:
+- Practicing JavaScript fundamentals
+- Building hands-on confidence
+- Preparing for frontend and full-stack roles
+
+## 🚀 Technologies Used
 
 - HTML5
-- CSS3 *(optional styling later)*
+- CSS3 (basic styling)
 - JavaScript (Vanilla)
 
----
+## 🧑‍💻 Author
 
-## 🧑‍💻 About Me
-
-I’m Aayush, currently pursuing MCA from GJUS&T. I'm passionate about solving real-world problems with code and sharing what I learn along the way.
-
-This repo documents my journey with JavaScript — from basic syntax to practical mini apps.
-
----
-
-## 🤝 Contribute or Connect
-
-If you're also learning JavaScript, feel free to explore, suggest ideas, or contribute mini projects.
-
-📬 [Connect on LinkedIn](https://www.linkedin.com/in/aayushaggarwal06)
+**Aayush Aggarwal**  
+👨‍🎓 MCA Student @ GJUS&T  
+💼 [LinkedIn](https://www.linkedin.com/in/aayushaggarwal06)  
+📁 [Portfolio Projects](https://github.com/AayushAggarwal06)
 
 ---
 
+Feel free to fork, use, or contribute — this repo is all about growth and learning!
