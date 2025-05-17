@@ -1,30 +1,28 @@
-# Number Guessing Game
+# 🎲 Number Guessing Game
 
-A simple JavaScript game where the user tries to guess a randomly generated number between 1 and 100.
+A simple JavaScript game where the user tries to guess a randomly generated number between 1 and 10.
 
-## Features
-
+## 🚀 Features
+- User input through `prompt()`
 - Random number generation using `Math.random()`
-- User input via `prompt()`
-- Input validation and hints (`Too high`, `Too low`)
-- Tracks number of attempts
-- Uses basic JS concepts: loops, conditionals, functions
+- Conditional feedback (Too low, too high, or correct!)
+- Basic loop for retrying if the guess is wrong
 
-## How to Play
+## 🧠 Concepts Used
+- Variables & operators
+- `prompt()` and `alert()`
+- `if-else` conditional statements
+- Loops
+- Math functions
 
-1. Open `index.html` in a browser
-2. Click the "Start Game" button
-3. Enter your guesses when prompted
-4. Follow the hints until you guess correctly
+## 🕹️ How to Play
+1. Open `index.html` in your browser
+2. Follow the prompt to guess a number between 1 and 10
+3. Get feedback and try again if incorrect!
 
-## Learnings
-
-- Variables and data types
-- Loops (`while`)
-- Conditionals (`if-else`)
-- Functions
-- User dialogs (`prompt()`, `alert()`)
+## 🌐 Live Preview
+👉 [Click to Play](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/number-guess-game/)
 
 ---
 
-Enjoy the game! 🚀
+🎓 *Great for practicing input handling, conditions, and loops in JavaScript!*
