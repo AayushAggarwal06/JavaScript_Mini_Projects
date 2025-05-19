@@ -22,9 +22,8 @@ A simple JavaScript console-based quiz app that tests your knowledge with multip
 2. Answer questions in the prompt input (a, b, or c)
 3. See your score at the end!
 
-## 🌐 Live Preview
-
-👉 _(You can add your GitHub Pages link here once deployed)_
+## 🌐 Live Preview  
+👉 [Click to Play](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/quiz-app/)
 
 ---
 
