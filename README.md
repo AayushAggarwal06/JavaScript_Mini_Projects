@@ -6,12 +6,13 @@ Each project focuses on core concepts like variables, conditions, functions, loo
 
 ## 📂 Projects Included
 
-| Project Name             | Description                                  | Live Demo |
-|--------------------------|----------------------------------------------|-----------|
+| Project Name                     | Description                                         | Live Demo |
+|---------------------------------|-----------------------------------------------------|-----------|
 | 🍎 [Fruit Price Calculator](./docs/fruit-price-calculator/index.html) | Simple billing calculator based on fruit and quantity using basic JS logic | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/fruit-price-calculator/) |
 | 🎲 [Number Guessing Game](./docs/number-guess-game/index.html)        | Guess a number between 1–100 with user prompts and feedback | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/number-guess-game/) |
-| 🎯 [Quiz App](./docs/quiz-app/index.html) | Simple quiz with randomized questions and scoring. | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/quiz-app/) |
-| 🔐 [Random Password Generator](./docs/random-password-generator/index.html) | Console-based generator to create strong, secure passwords | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/random-password-generator/) |
+| 🎯 [Quiz App](./docs/quiz-app/index.html)                             | Simple quiz with randomized questions and scoring. | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/quiz-app/) |
+| 🔐 [Random Password Generator](./docs/random-password-generator/index.html) | Generates strong random passwords based on criteria | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/random-password-generator/) |
+| ✂️ [Rock Paper Scissors](./docs/rock-paper-scissors/index.html)       | Classic game with repeat mode and score tracking   | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/rock-paper-scissors/) |
 
 > More projects coming soon...
 
