@@ -15,7 +15,7 @@ Each project focuses on core concepts like variables, conditions, functions, loo
 | ✊ [Rock Paper Scissors](./docs/rock-paper-scissors/index.html)       | Classic game where you play against the computer                | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/rock-paper-scissors/) |
 | 💡 [Light Bulb Toggle](./docs/light-bulb-toggle/index.html)          | Basic DOM interaction to turn a light bulb on/off               | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/light-bulb-toggle/) |
 
-> More projects coming soon...
+> More projects coming soon....
 
 ## 🎯 Purpose
 
