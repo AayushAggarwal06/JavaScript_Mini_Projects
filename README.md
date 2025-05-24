@@ -6,16 +6,17 @@ Each project focuses on core concepts like variables, conditions, functions, loo
 
 ## 📂 Projects Included
 
-| Project Name                              | Description                                                     | Live Demo |
-|-------------------------------------------|-----------------------------------------------------------------|-----------|
-| 🍎 [Fruit Price Calculator](./docs/fruit-price-calculator/index.html) | Simple billing calculator based on fruit and quantity using basic JS logic | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/fruit-price-calculator/) |
-| 🎲 [Number Guessing Game](./docs/number-guess-game/index.html)        | Guess a number between 1–100 with user prompts and feedback     | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/number-guess-game/) |
-| 🎯 [Quiz App](./docs/quiz-app/index.html)                              | Simple quiz with randomized questions and scoring               | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/quiz-app/) |
-| 🔐 [Random Password Generator](./docs/random-password-generator/index.html) | Generates strong passwords using JavaScript logic in the console | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/random-password-generator/) |
-| ✊ [Rock Paper Scissors](./docs/rock-paper-scissors/index.html)       | Classic game where you play against the computer                | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/rock-paper-scissors/) |
-| 💡 [Light Bulb Toggle](./docs/light-bulb-toggle/index.html)          | Basic DOM interaction to turn a light bulb on/off               | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/light-bulb-toggle/) |
+| Project Name                   | Description                                                | Live Demo                                                                                  |
+|-------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 🍎 [Fruit Price Calculator](./docs/fruit-price-calculator/index.html)      | Simple billing calculator based on fruit and quantity using basic JS logic                 | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/fruit-price-calculator/) |
+| 🎲 [Number Guessing Game](./docs/number-guess-game/index.html)             | Guess a number between 1–100 with user prompts and feedback                              | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/number-guess-game/)      |
+| 🎯 [Quiz App](./docs/quiz-app/index.html)                                 | Simple quiz with randomized questions and scoring.                                      | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/quiz-app/)               |
+| 🔐 [Random Password Generator](./docs/random-password-generator/index.html) | Generate strong passwords with letters, numbers & symbols                               | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/random-password-generator/) |
+| ✂️ [Rock Paper Scissors Game](./docs/rock-paper-scissors/index.html)      | Play the classic game with JavaScript logic and interaction                             | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/rock-paper-scissors/)    |
+| 💡 [Light Bulb Toggle](./docs/light-bulb-toggle/index.html)                | Toggle the light bulb ON and OFF with a click                                           | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/light-bulb-toggle/)      |
+| ⏰ [Digital Clock](./docs/digital-clock/index.html)                        | Live 12-hour format clock updating every second in real time                            | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/digital-clock/)           |
 
-> More projects coming soon....
+> More projects coming soon...
 
 ## 🎯 Purpose
 
@@ -26,8 +27,8 @@ This repository is part of my learning journey as an MCA student, aimed at:
 
 ## 🚀 Technologies Used
 
-- HTML5
-- CSS3 (basic styling)
+- HTML5  
+- CSS3 (basic styling)  
 - JavaScript (Vanilla)
 
 ## 🧑‍💻 Author
