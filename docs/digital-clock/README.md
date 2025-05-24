@@ -30,7 +30,3 @@ This project lives inside the `docs/digital-clock/` folder of this repository.
 1. Clone or download the repository
 2. Open `index.html` in your browser
 3. The time will display and update automatically
-
----
-
-> This is **Project #6** in my JavaScript Mini Projects series. More projects coming soon!
