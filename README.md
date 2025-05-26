@@ -6,16 +6,17 @@ Each project focuses on core concepts like variables, conditions, functions, loo
 
 ## 📂 Projects Included
 
-| Project Name             | Description                                  | Live Demo |
-|--------------------------|----------------------------------------------|-----------|
+| Project Name                  | Description                                                     | Live Demo |
+|------------------------------|------------------------------------------------------------------|-----------|
 | 🍎 [Fruit Price Calculator](./docs/fruit-price-calculator/index.html) | Simple billing calculator based on fruit and quantity using basic JS logic | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/fruit-price-calculator/) |
-| 🎲 [Number Guessing Game](./docs/number-guess-game/index.html)        | Guess a number between 1–100 with user prompts and feedback | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/number-guess-game/) |
+| 🎲 [Number Guessing Game](./docs/number-guess-game/index.html) | Guess a number between 1–100 with user prompts and feedback | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/number-guess-game/) |
 | 🎯 [Quiz App](./docs/quiz-app/index.html) | Simple quiz with randomized questions and scoring | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/quiz-app/) |
-| 🔐 [Random Password Generator](./docs/random-password-generator/index.html) | Generates strong, random passwords with customizable characters | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/random-password-generator/) |
-| ✊ [Rock Paper Scissors](./docs/rock-paper-scissors/index.html) | Console-based game logic using conditions and user input | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/rock-paper-scissors/) |
-| 💡 [Light Bulb Toggle](./docs/light-bulb-toggle/index.html) | Basic DOM interaction to toggle a bulb on/off | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/light-bulb-toggle/) |
-| 🕒 [Digital Clock](./docs/digital-clock/index.html) | Real-time digital clock using `Date` and time formatting | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/digital-clock/) |
-| 💰 [Tip Calculator](./docs/tip-calculator/index.html) | Calculate your tip based on bill amount and percentage | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/tip-calculator/) |
+| 🔐 [Random Password Generator](./docs/random-password-generator/index.html) | Generate strong random passwords in the console | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/random-password-generator/) |
+| ✊ [Rock Paper Scissors](./docs/rock-paper-scissors/index.html) | Classic RPS game using logic and console interaction | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/rock-paper-scissors/) |
+| 💡 [Light Bulb Toggle](./docs/light-bulb-toggle/index.html) | Turn a bulb on/off with a button using basic DOM logic | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/light-bulb-toggle/) |
+| ⏰ [Digital Clock](./docs/digital-clock/index.html) | Real-time 12-hour digital clock with AM/PM using JS intervals | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/digital-clock/) |
+| 💸 [Tip Calculator](./docs/tip-calculator/index.html) | Calculate tips based on bill amount and selected percentage | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/tip-calculator/) |
+| ➕ [Counter App](./docs/counter-app/index.html) | Increase or decrease a value using simple DOM interaction | [Live](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/counter-app/) |
 
 > More projects coming soon...
 
