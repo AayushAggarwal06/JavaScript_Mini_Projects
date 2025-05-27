@@ -7,7 +7,6 @@ This is a beginner-friendly JavaScript DOM project focused on real-world use cas
 ## 🔗 Live Demo
 
 **Live Demo:** [View Online](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/BMI-calculator/)  
-**GitHub Repo:** [Source Code](https://github.com/AayushAggarwal06/JavaScript_Mini_Projects/tree/main/docs/BMI-calculator)
 
 ## 🧠 What I Learned
 
