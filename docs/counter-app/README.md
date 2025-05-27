@@ -41,7 +41,6 @@ The interface updates **live** as you click buttons.
 ---
 
 **Live Demo:** [View Online](https://aayushaggarwal06.github.io/JavaScript_Mini_Projects/counter-app/)  
-**GitHub Repo:** [Source Code](https://github.com/AayushAggarwal06/JavaScript_Mini_Projects/tree/main/docs/counter-app)
 
 ---
 
